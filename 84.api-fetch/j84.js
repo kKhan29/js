@@ -8,5 +8,6 @@
 // + fetch() returns a promise
 // - returned promise can only handle network error
 // - does not support all the older browser
+// - does not support all the older browser
 
 
